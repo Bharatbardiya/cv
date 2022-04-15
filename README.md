@@ -1,2 +1,2 @@
 # cv
-link: https://github.com/Bharatbardiya/cv/
+link: https://bharatbardiya.github.io/cv/
